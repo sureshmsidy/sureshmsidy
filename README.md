@@ -1,6 +1,6 @@
 # Suresh Meesala 🎧
 
-**`Software Engineer (since my high school)`**
+**`Software Engineer`**
 
 I'm a full-stack software engineer having experience across the full spectrum of software application development. 
 
