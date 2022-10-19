@@ -1,5 +1,7 @@
 # Suresh Meesala 🎧
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full-stack+Software+Engineer;Having+experience+across+the+full+spectrum+of+Software+development;7%2B+years+of+coding+experience)](https://git.io/typing-svg)
+
 **`Software Engineer`**
 
 I'm a full-stack software engineer having experience across the full spectrum of software application development. 
