@@ -10,7 +10,7 @@
 
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=75&lines=Full-stack+Software+Engineer;Having+experience+across+the+full+spectrum+of+Software+Development;7%2B+years+of+coding+experience)](https://github.com/sureshmsidy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=75&lines=Full-stack+Software+Engineer;Having+experience+across+the+full+spectrum+of+Software+Development;7%2B+years+of+coding+experience)](https://github.com/sureshmsidy)
 
 ## Key Skills
 <p align="left">
