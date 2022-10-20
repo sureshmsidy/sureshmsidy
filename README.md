@@ -1,13 +1,16 @@
 # Suresh Meesala 🎧
 
+<pre>
+     _____                     _      ___  ___                     _
+    /  ___|                   | |     |  \/  |                    | |
+    \ `--. _   _ _ __ ___  ___| |__   | .  . | ___  ___  ___  __ _| | __ _
+     `--. \ | | | '__/ _ \/ __| '_ \  | |\/| |/ _ \/ _ \/ __|/ _` | |/ _` |
+    /\__/ / |_| | | |  __/\__ \ | | | | |  | |  __/  __/\__ \ (_| | | (_| |
+    \____/ \__,_|_|  \___||___/_| |_| \_|  |_/\___|\___||___/\__,_|_|\__,_|
+
+</pre>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full-stack+Software+Engineer;Having+experience+across+the+full+spectrum+of+Software+development;7%2B+years+of+coding+experience)](https://git.io/typing-svg)
-
-**`Software Engineer`**
-
-I'm a full-stack software engineer having experience across the full spectrum of software application development. 
-
-All coding projects are build from the ground up, from planning and desiging, to hand-coding web and desktop applicatoins, to setting up servers on various cloud platforms, to containerizing and publishing packages... all the way to solving real-life problem with code.
-
 
 ## Key Skills
 <p align="left">
