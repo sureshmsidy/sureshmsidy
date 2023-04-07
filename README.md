@@ -10,6 +10,12 @@
 
 </pre>
 
+<p align="center">
+Indie Software Development Engineer with 7+ years of Experience.<br/>
+Adept at creating Distrivuted Software Applications which solves complex business problems using technologies.<br/>
+Created distributed software applications that are reliable, efficient, available, scalable, and maintainable.
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=75&lines=Full-stack+Software+Engineer;Having+experience+across+the+full+spectrum+of+Software+Development;7%2B+years+of+coding+experience)](https://github.com/sureshmsidy)
 
 ## Key Skills
